@@ -1,0 +1,5 @@
+.idea
+node_modules
+reports
+npm-debug.log
+screenshots
